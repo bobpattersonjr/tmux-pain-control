@@ -18,9 +18,9 @@ Notice most of the bindings emulate vim cursor movements.
 
 - `prefix + h`<br/>
   select pane on the left
-- `prefix + j`<br/>
-  select pane below the current one
 - `prefix + k`<br/>
+  select pane below the current one
+- `prefix + j`<br/>
   select pane above
 - `prefix + l`<br/>
   select pane on the right
@@ -40,9 +40,9 @@ a better binding for that, `prefix + a` (if your prefix is `C-a`).
 
 - `prefix + shift + h`<br/>
   resize current pane 5 cells to the left
-- `prefix + shift + j`<br/>
-  resize 5 cells in the up direction
 - `prefix + shift + k`<br/>
+  resize 5 cells in the up direction
+- `prefix + shift + j`<br/>
   resize 5 cells in the down direction
 - `prefix + shift + l`<br/>
   resize 5 cells to the right
